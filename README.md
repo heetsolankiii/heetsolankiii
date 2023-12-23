@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Heet Solanki
 - 👀 I’m interested in Coding, and all the stuff around computers.
 - 🌱 I’m currently pursuing Bachelor's of Computer Applications (BCA) also learning Digital Marketing.
-- 📫 You can contact me on my Instagram
+- 📫 You can contact me on my [Instagram]([url](https://www.instagram.com/imnotheet))
 
 <!---
 heetsolankiii/heetsolankiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
