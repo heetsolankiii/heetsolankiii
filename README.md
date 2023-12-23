@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heetsolankiii
+# 👋 Hi, I’m @heetsolankiii
 - 👀 I’m interested in Coding, and all the stuff around computers.
 - 🌱 I’m currently pursuing Bachelor's of Computer Applications (BCA) also learning Digital Marketing.
 - 📫 You can contact me on my Instagram
